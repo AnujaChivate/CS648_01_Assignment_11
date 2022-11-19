@@ -1,0 +1,36 @@
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  border: 1px solid white;
+  background-color: transparent;
+}
+
+.carousel-indicators li:active {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  border: 1px solid white;
+  background-color: white;
+}
+ 
+#Carousel-align {
+  margin-top: -80px;
+}
+
+.carousel-caption {
+  margin-bottom: 10px;
+}
+
+div .collapse {
+  margin-top: 10px;
+}
+
+section {
+  margin-top: 10px;
+}
+
+.scr { 
+  height: 280px; 
+  overflow-y: scroll;
+}
